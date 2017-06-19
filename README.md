@@ -1,2 +1,2 @@
 # hello-world
-I like potatoes
+I like giraffes
